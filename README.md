@@ -1,16 +1,9 @@
 # tic_tac_toe
 
-A new Flutter project.
+A new tic tac toe game developed and used Neomorphic styles to get a classy look
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## How to get the logic behind the code?
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have written a full documentation(i.e., comments to each bit of code). So no need to worry about it.
+If you want the video goto https://www.youtube.com/channel/UC3mHp42mHiNbQ6CS1AWy2MA youtube channel.
